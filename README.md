@@ -5,12 +5,12 @@ SnapShare is a social media web application where users can share their photos a
 Built using Node.js and Express.js, SnapShare provides a simple and intuitive platform for users to connect through visual content.
 
 # Key Features
-User Authentication: Secure user registration and login system using Passport Authenticate.
-Post Creation: Users can upload and share photos with a title and description.
-View Posts: Browse and view posts shared by other users.
-User Profile: Each user has a profile page displaying their posts.
-Responsive Design: The site is fully responsive, ensuring a smooth experience across all devices.
-Real-Time Updates: Posts update in real-time using WebSockets.
+1) User Authentication: Secure user registration and login system using Passport Authenticate.
+2) Post Creation: Users can upload and share photos with a title and description.
+3) View Posts: Browse and view posts shared by other users.
+4) User Profile: Each user has a profile page displaying their posts.
+5) Responsive Design: The site is fully responsive, ensuring a smooth experience across all devices.
+6) Real-Time Updates: Posts update in real-time using WebSockets.
 
 # Technologies Used
 # Backend:
